@@ -33,7 +33,7 @@
         "extend2": "~1.0",
         "json-object-mapper": "~1.5",
         "rxjs": "^6.2.0",
-        "rxjs-compat": "^6.2.0",
+        "rxjs-compat": "^6.6.7",
         "simple-line-icons": "~2.4",
         "zone.js": "^0.8.26"
     },
